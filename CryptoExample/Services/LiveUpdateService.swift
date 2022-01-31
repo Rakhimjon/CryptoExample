@@ -1,6 +1,6 @@
 //
 //  WebSocket.swift
-//  CryptoEx
+//  CryptoExample
 //
 //  Created by Rahimjon Abdullayev on 28/01/22.
 //
